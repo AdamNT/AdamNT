@@ -1,4 +1,4 @@
-# Hi, I'm Adam 👋🏾 💻
+# Hi, I'm Adam 👋🏼 💻
 I'm **Fullstack JavaScript Developer** with **3 years commercial experience**.  
 I use **JAMstack**, but more precisely **MERNstack**.  
 I'm still learning and discovering new technologies!  
