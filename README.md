@@ -4,7 +4,7 @@ I use **JAMstack**, but more precisely **MERNstack**.
 I'm still learning and discovering new technologies!  
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/adam-zawadzki-coditude)](https://linkedin.com/in/adam-zawadzki-coditude)
-[![gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:adamzawadzki95@gmail.com)](mailto:adamzawadzki95@gmail.com)
+[![gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:adam@coditude.pl)](mailto:adam@coditude.pl)
 
 
 ## Technologies
