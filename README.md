@@ -1,5 +1,5 @@
 # Hi, I'm Adam 👋🏼 💻
-I'm **Front-end / JavaScript Developer** with **3 years commercial experience**.  
+I'm **Front-end / JavaScript Developer** with **5 years commercial experience**.  
 I use **JAMstack**, but more precisely **MERNstack**.  
 I'm still learning and discovering new technologies!  
 
@@ -45,17 +45,6 @@ I'm still learning and discovering new technologies!
 
 [![woo](https://img.shields.io/badge/-Woo-96588A?style=for-the-badge&logo=woo&logoColor=white&link=https://github.com/AdamNT/AdamNT)](https://github.com/AdamNT/AdamNT)
 [![wordpess](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&link=https://github.com/AdamNT/AdamNT)](https://github.com/AdamNT/AdamNT)  
-
-## 🔭 I’m currently working on
-[![drink party app](https://img.shields.io/badge/Drink%20party%20app-in%20progress-lightgrey?style=for-the-badge)](https://github.com/AdamNT/AdamNT)  
-This is the app with all the drink recipes.  
-You will be able to search for entries after what we have in the bar.  
-Shopping list, shot ratings, pump room recommendations and many other features.  
-
-[![wordpress site generator](https://img.shields.io/badge/WP%20site%20generator-in%20progress-lightgrey?style=for-the-badge)](https://github.com/AdamNT/AdamNT)  
-Generating code that the developer would write.  
-Throwing out repetitive elements into components.  
-Create the entire page from them to minimize repetitive activities and shorten development time.  
 
 ## 🌱 I’m currently learning
 [![vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&link=https://github.com/AdamNT/AdamNT)](https://github.com/AdamNT/AdamNT)
