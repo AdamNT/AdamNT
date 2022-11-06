@@ -42,8 +42,8 @@ I'm still learning and discovering new technologies!
 
 [![cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white&link=https://github.com/AdamNT/AdamNT)](https://github.com/AdamNT/AdamNT)
 [![jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&link=https://github.com/AdamNT/AdamNT)](https://github.com/AdamNT/AdamNT)
-[![woo](https://img.shields.io/badge/-Woo-96588A?style=for-the-badge&logo=woo&logoColor=white&link=https://github.com/AdamNT/AdamNT)](https://github.com/AdamNT/AdamNT)
-[![wordpess](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&link=https://github.com/AdamNT/AdamNT)](https://github.com/AdamNT/AdamNT)
+[![woo](https://img.shields.io/badge/-Woo-96588A?style=for-the-badge&logo=woo&logoColor=white)](https://github.com/AdamNT/AdamNT)
+[![wordpess](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://pl.wordpress.org/)
 
 ## 🌱 I’m currently learning
-[![vue.js](https://img.shields.io/badge/-nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&link=https://github.com/AdamNT/AdamNT)](https://github.com/AdamNT/AdamNT)
+[![vue.js](https://img.shields.io/badge/-nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
